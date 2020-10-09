@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "MAPE"
+#  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Mensuração e Avaliação em Psicologia e Educação"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
